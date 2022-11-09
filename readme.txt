@@ -7,6 +7,5 @@ This project is a word wrapper written in java. The purpose of this program is t
 5. then it gets rid of extra white spaces
 6. it then enters a loop to wrap text and checks if the text doesn't exceed the limit yet, it adds it to the line 
 and updates its value
-7. then it checks for large words by checking the index of the last white space, if it's -1, it prints that new word on a separate 
-line and updates its value
+7. then it checks for large words by checking the index of the last white space, if it's -1, it prints that new word on a separate line and updates its value
 8. all values are stored in a buffer and at the end, the buffer is printed
